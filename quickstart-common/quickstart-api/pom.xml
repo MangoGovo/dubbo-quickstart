@@ -20,9 +20,8 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.apache.dubbo</groupId>
-        <artifactId>quickstart</artifactId>
+        <artifactId>quickstart-common</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>quickstart-api</artifactId>
     <name>quickstart-api</name>

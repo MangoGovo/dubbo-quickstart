@@ -17,8 +17,8 @@
     </properties>
 
     <modules>
-        <module>quickstart-api</module>
         <module>quickstart-service</module>
+        <module>quickstart-common</module>
     </modules>
 
     <dependencyManagement>
